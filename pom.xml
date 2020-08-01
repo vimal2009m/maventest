@@ -29,12 +29,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://192.168.159.209:8081/repository/mavsample22/</url>
+            <url>http://192.168.159.209:8081/repository/sample-snap1</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://192.168.159.209:8081/repository/sample-release/</url>
+            <url>http://192.168.159.209:8081/repository/sample-releasemaven1</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
