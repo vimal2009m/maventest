@@ -29,7 +29,7 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://10.128.0.10:8081/repository/student-rel/</url>
+            <url>http://192.168.159.209:8081/repository/mavsample22/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
