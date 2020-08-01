@@ -27,7 +27,7 @@
   </build>
    <distributionManagement>
         <repository>
-            <id>deployment</id>
+            <id>nexus</id>
             <name>Internal Releases</name>
             <url>http://192.168.159.209:8081/repository/sample-snap1</url>
         </repository>
