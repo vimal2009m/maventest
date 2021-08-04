@@ -29,12 +29,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://localhost:8081/repository/myapp-release/</url>
+            <url>http://192.168.224.179:8081/repository/myapp-release/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
-            <name>Internal Snapshot Releases</name>
-            <url>http://localhost:8081/repository/myapp-snap/</url>
+            <name>Internal Snapshot Rele192.168.224.179:8081es</name>
+            <url>http://192.168.224.179:8081/repository/myapp-snap/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
